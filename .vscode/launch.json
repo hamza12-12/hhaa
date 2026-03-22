@@ -1,0 +1,14 @@
+{
+    // استخدم IntelliSense لمعرفة المزيد عن السمات الممكنة.
+    // أشر لعرض وصف السمات الموجودة.
+    // لمزيد من المعلومات، قم بزيارة: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open untitled.html",
+            "file": "/home/yazon/Desktop/hhaa/untitled.html"
+        }
+    ]
+}
